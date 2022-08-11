@@ -1,0 +1,6 @@
+framework module Pods_Sejasa_WeatherApp {
+  umbrella header "Pods-Sejasa-WeatherApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
